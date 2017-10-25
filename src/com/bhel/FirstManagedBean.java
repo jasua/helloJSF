@@ -12,6 +12,7 @@ import javax.annotation.ManagedBean;
 @ManagedBean
 public class FirstManagedBean {
 	
+	//Fix Bug
 	private String firstName;
 	private String lastName;
 	
