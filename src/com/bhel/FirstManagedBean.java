@@ -8,6 +8,7 @@ import javax.annotation.ManagedBean;
 //change C
 //change XY
 //another change
+//version 2
 
 @ManagedBean
 public class FirstManagedBean {
